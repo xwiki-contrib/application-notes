@@ -8,6 +8,7 @@
   <translation>1</translation>
   <creator>xwiki:XWiki.Admin</creator>
   <creationDate>1421682226000</creationDate>
+  <parent>Notes.WebHome</parent>
   <author>xwiki:XWiki.Admin</author>
   <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
   <date>1421683069000</date>

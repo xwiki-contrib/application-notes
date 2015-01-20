@@ -39,6 +39,7 @@
     <connection>scm:git:git://github.com/xwiki-contrib/application-notes.git</connection>
     <developerConnection>scm:git:git@github.com:xwiki-contrib/application-notes.git</developerConnection>
     <url>https://github.com/xwiki-contrib/application-notes</url>
+    <tag>HEAD</tag>
   </scm>
   <developers>
     <developer>

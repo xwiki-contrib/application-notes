@@ -22,6 +22,7 @@
   <content>{{info}}
 {{velocity}}
 $services.localization.render('notes.app.info')
+#set($docextras=[])
 {{/velocity}}
 {{/info}}
 

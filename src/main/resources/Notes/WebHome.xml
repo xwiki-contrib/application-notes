@@ -26,7 +26,7 @@ $services.localization.render('notes.app.info')
 {{/velocity}}
 {{/info}}
 
-{{spaceindex count="5"/}}</content>
+{{documentTree/}}</content>
   <object>
     <name>Notes.WebHome</name>
     <number>0</number>

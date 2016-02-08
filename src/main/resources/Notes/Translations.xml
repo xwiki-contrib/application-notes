@@ -56,7 +56,7 @@ notes.app.info=This application aims to bring together the current documents.</c
       </scope>
     </class>
     <property>
-      <scope>GLOBAL</scope>
+      <scope>WIKI</scope>
     </property>
   </object>
 </xwikidoc>

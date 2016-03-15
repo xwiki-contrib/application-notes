@@ -31,7 +31,7 @@
   </parent>
   <groupId>org.xwiki.contrib</groupId>
   <artifactId>application-notes</artifactId>
-  <version>1.0.2-SNAPSHOT</version>
+  <version>1.1</version>
   <name>Notes Application</name>
   <packaging>xar</packaging>
   <description>This application helps the user to see all the notes (pages) created in a space.</description>
@@ -39,7 +39,7 @@
     <connection>scm:git:git://github.com/xwiki-contrib/application-notes.git</connection>
     <developerConnection>scm:git:git@github.com:xwiki-contrib/application-notes.git</developerConnection>
     <url>https://github.com/xwiki-contrib/application-notes</url>
-    <tag>HEAD</tag>
+    <tag>application-notes-1.1</tag>
   </scm>
   <developers>
     <developer>

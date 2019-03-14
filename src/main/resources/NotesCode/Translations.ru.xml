@@ -39,6 +39,7 @@
   <minorEdit>false</minorEdit>
   <syntaxId>xwiki/2.1</syntaxId>
   <hidden>true</hidden>
-  <content></content>
+  <content>notes.app.title=Заметки
+notes.app.info=Это приложение нацелено на объединение текущих документов.</content>
   
 </xwikidoc>
